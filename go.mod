@@ -7,7 +7,7 @@ require (
 	webtyp.com/fmt v1.0.0
 	webtyp.com/orm v0.12.28
 	webtyp.com/sqlite v0.3.29
-	webtyp.com/storage v0.1.18
+	webtyp.com/storage v0.1.19
 )
 
 require (
