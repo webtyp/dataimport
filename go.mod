@@ -21,6 +21,6 @@ require (
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.11.0 // indirect
 	modernc.org/sqlite v1.54.0 // indirect
-	webtyp.com/model v0.2.12 // indirect
+	webtyp.com/model v0.2.15 // indirect
 	webtyp.com/sqlt v0.0.14 // indirect
 )
