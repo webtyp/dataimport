@@ -25,7 +25,7 @@ require (
 	webtyp.com/crud v0.0.5 // indirect
 	webtyp.com/escape v0.1.0 // indirect
 	webtyp.com/json v0.5.40 // indirect
-	webtyp.com/model v0.2.15 // indirect
+	webtyp.com/model v0.2.19 // indirect
 	webtyp.com/router v0.4.19 // indirect
 	webtyp.com/sqlt v0.0.14 // indirect
 	webtyp.com/time v0.6.4 // indirect
