@@ -4,7 +4,7 @@ go 1.26.8
 
 require (
 	webtyp.com/ddl v0.0.46
-	webtyp.com/fmt v1.0.1
+	webtyp.com/fmt v1.0.2
 	webtyp.com/orm v0.12.28
 	webtyp.com/sqlite v0.3.29
 	webtyp.com/storage v0.1.19
