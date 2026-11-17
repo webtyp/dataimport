@@ -20,6 +20,7 @@
     "step": ["paso", "", "", "", "", "", "", ""],
     "tabla,id,campo,valor_original,valor_corregido,motivo": ["tabla,id,campo,valor_original,valor_corregido,motivo", "", "", "", "", "", "", ""],
     "table": ["tabla", "", "", "", "", "", "", ""],
+    "the corrections file is not valid CSV": ["", "", "", "", "", "", "", ""],
     "the corrections file must start with this header:": ["el archivo de correcciones debe empezar con este encabezado:", "", "", "", "", "", "", ""],
     "the step reads a table that is not listed in Plan.Tables — add it there with its": ["el paso lee una tabla que no está listada en Plan.Tables — agrégala allí con su", "", "", "", "", "", "", ""],
     "the value in the backup is now": ["el valor en el respaldo ahora es", "", "", "", "", "", "", ""],
